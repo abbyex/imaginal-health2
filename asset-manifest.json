@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/imaginal-health2/static/css/main.9d088a63.css",
-    "main.js": "/imaginal-health2/static/js/main.5a422791.js",
+    "main.js": "/imaginal-health2/static/js/main.3894d213.js",
     "static/media/video.mp4": "/imaginal-health2/static/media/video.49b67e4df7183f75627f.mp4",
     "static/media/tree.jpeg": "/imaginal-health2/static/media/tree.ff72c4240ee77cfeb80b.jpeg",
     "static/media/stars1.jpeg": "/imaginal-health2/static/media/stars1.83163f65a88fb155c756.jpeg",
@@ -12,10 +12,10 @@
     "static/media/blue.JPG": "/imaginal-health2/static/media/blue.095f65569a5d55e09484.JPG",
     "index.html": "/imaginal-health2/index.html",
     "main.9d088a63.css.map": "/imaginal-health2/static/css/main.9d088a63.css.map",
-    "main.5a422791.js.map": "/imaginal-health2/static/js/main.5a422791.js.map"
+    "main.3894d213.js.map": "/imaginal-health2/static/js/main.3894d213.js.map"
   },
   "entrypoints": [
     "static/css/main.9d088a63.css",
-    "static/js/main.5a422791.js"
+    "static/js/main.3894d213.js"
   ]
 }
