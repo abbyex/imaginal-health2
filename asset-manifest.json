@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/imaginal-health2/static/css/main.bf164222.css",
-    "main.js": "/imaginal-health2/static/js/main.7168f76b.js",
+    "main.js": "/imaginal-health2/static/js/main.74823b19.js",
     "static/media/video.mp4": "/imaginal-health2/static/media/video.49b67e4df7183f75627f.mp4",
     "static/media/butterfly.jpeg": "/imaginal-health2/static/media/butterfly.a8c3a948355613deae30.jpeg",
     "static/media/brand-icons.svg": "/imaginal-health2/static/media/brand-icons.6729d29753e000c17489.svg",
@@ -14,12 +14,12 @@
     "static/media/mushrooms-min.jpeg": "/imaginal-health2/static/media/mushrooms-min.ae2c4602f4c199fc1880.jpeg",
     "static/media/brand-icons.eot": "/imaginal-health2/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
     "static/media/brand-icons.ttf": "/imaginal-health2/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
-    "static/media/wave.jpeg": "/imaginal-health2/static/media/wave.9f5221727d9c086d9d5e.jpeg",
     "static/media/stars-min.jpeg": "/imaginal-health2/static/media/stars-min.86a8ce04f1a9b15dc8a7.jpeg",
     "static/media/brand-icons.woff": "/imaginal-health2/static/media/brand-icons.cac87dc00c87a5d74711.woff",
     "static/media/judith.jpg": "/imaginal-health2/static/media/judith.41a616be4507d9a01436.jpg",
     "static/media/brand-icons.woff2": "/imaginal-health2/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
     "static/media/icons.woff": "/imaginal-health2/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/mountain.jpeg": "/imaginal-health2/static/media/mountain.72e1ef62d6d6eb16a7e5.jpeg",
     "static/media/hurricane-min.jpeg": "/imaginal-health2/static/media/hurricane-min.a562b77c61174837d4b5.jpeg",
     "static/media/icons.woff2": "/imaginal-health2/static/media/icons.38c6d8bab26db77d8c80.woff2",
     "static/media/outline-icons.eot": "/imaginal-health2/static/media/outline-icons.752905fa5edf21fc52a1.eot",
@@ -31,10 +31,10 @@
     "static/media/blue.JPG": "/imaginal-health2/static/media/blue.095f65569a5d55e09484.JPG",
     "index.html": "/imaginal-health2/index.html",
     "main.bf164222.css.map": "/imaginal-health2/static/css/main.bf164222.css.map",
-    "main.7168f76b.js.map": "/imaginal-health2/static/js/main.7168f76b.js.map"
+    "main.74823b19.js.map": "/imaginal-health2/static/js/main.74823b19.js.map"
   },
   "entrypoints": [
     "static/css/main.bf164222.css",
-    "static/js/main.7168f76b.js"
+    "static/js/main.74823b19.js"
   ]
 }
