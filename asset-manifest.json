@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/imaginal-health2/static/css/main.bf164222.css",
-    "main.js": "/imaginal-health2/static/js/main.3d42f972.js",
+    "main.css": "/imaginal-health2/static/css/main.bf9301a9.css",
+    "main.js": "/imaginal-health2/static/js/main.8b16eb45.js",
     "static/media/video.mp4": "/imaginal-health2/static/media/video.49b67e4df7183f75627f.mp4",
     "static/media/butterfly.jpeg": "/imaginal-health2/static/media/butterfly.a8c3a948355613deae30.jpeg",
     "static/media/brand-icons.svg": "/imaginal-health2/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/imaginal-health2/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/stars.jpeg": "/imaginal-health2/static/media/stars.501e973963ef3d9c96d0.jpeg",
     "static/media/leaf.jpeg": "/imaginal-health2/static/media/leaf.dbeeb43dc8f86d1b58ea.jpeg",
-    "static/media/stars.jpeg": "/imaginal-health2/static/media/stars.46290190c8d1b4070e76.jpeg",
     "static/media/outline-icons.svg": "/imaginal-health2/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/imaginal-health2/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/imaginal-health2/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -15,6 +15,7 @@
     "static/media/brand-icons.eot": "/imaginal-health2/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
     "static/media/brand-icons.ttf": "/imaginal-health2/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
     "static/media/stars-min.jpeg": "/imaginal-health2/static/media/stars-min.86a8ce04f1a9b15dc8a7.jpeg",
+    "static/media/butterfly.png": "/imaginal-health2/static/media/butterfly.38eac1ace65bc0e8b043.png",
     "static/media/brand-icons.woff": "/imaginal-health2/static/media/brand-icons.cac87dc00c87a5d74711.woff",
     "static/media/mountain.jpeg": "/imaginal-health2/static/media/mountain.37f7d65c847993aac36e.jpeg",
     "static/media/judith.jpg": "/imaginal-health2/static/media/judith.41a616be4507d9a01436.jpg",
@@ -25,16 +26,15 @@
     "static/media/outline-icons.eot": "/imaginal-health2/static/media/outline-icons.752905fa5edf21fc52a1.eot",
     "static/media/outline-icons.ttf": "/imaginal-health2/static/media/outline-icons.5367103510b27b784827.ttf",
     "static/media/flags.png": "/imaginal-health2/static/media/flags.99f63ae7a743f21ab308.png",
-    "static/media/butterfly.png": "/imaginal-health2/static/media/butterfly.7f5f02e1ee53ddd94649.png",
     "static/media/outline-icons.woff": "/imaginal-health2/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/imaginal-health2/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "static/media/blue.JPG": "/imaginal-health2/static/media/blue.095f65569a5d55e09484.JPG",
     "index.html": "/imaginal-health2/index.html",
-    "main.bf164222.css.map": "/imaginal-health2/static/css/main.bf164222.css.map",
-    "main.3d42f972.js.map": "/imaginal-health2/static/js/main.3d42f972.js.map"
+    "main.bf9301a9.css.map": "/imaginal-health2/static/css/main.bf9301a9.css.map",
+    "main.8b16eb45.js.map": "/imaginal-health2/static/js/main.8b16eb45.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf164222.css",
-    "static/js/main.3d42f972.js"
+    "static/css/main.bf9301a9.css",
+    "static/js/main.8b16eb45.js"
   ]
 }
